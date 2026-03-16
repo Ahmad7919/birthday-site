@@ -17,10 +17,10 @@ document.body.appendChild(confetti);
 
 setTimeout(()=>{
 confetti.remove();
-},5000);
+},7000);
 
 }
 
 }
 
-setTimeout(createConfetti,5000);
+setTimeout(createConfetti,7000);
